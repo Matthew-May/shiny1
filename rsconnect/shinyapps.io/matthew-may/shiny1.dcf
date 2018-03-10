@@ -1,0 +1,12 @@
+name: shiny1
+title: shiny1
+username:
+account: matthew-may
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 296757
+bundleId: 1261903
+url: https://matthew-may.shinyapps.io/shiny1/
+when: 1520640435.52638
+asMultiple: FALSE
+asStatic: FALSE

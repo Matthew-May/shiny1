@@ -1,0 +1,316 @@
+t,m,f,o
+Agriculture,2012/12/1,1720.2,1
+Agriculture,2013/1/1,1861,2
+Agriculture,2013/2/1,1606.4,3
+Agriculture,2013/3/1,2486.4,4
+Agriculture,2013/4/1,2547.5,5
+Agriculture,2013/5/1,2602.3,6
+Agriculture,2013/6/1,1929.2,7
+Agriculture,2013/7/1,1384.4,8
+Agriculture,2013/8/1,1342.4,9
+Agriculture,2013/9/1,1444.9,10
+Agriculture,2013/10/1,1643.1,11
+Agriculture,2013/11/1,1865.7,12
+Agriculture,2013/12/1,1759.9,13
+Agriculture,2014/1/1,1761.1,14
+Agriculture,2014/2/1,2058.2,15
+Agriculture,2014/3/1,1311.6,16
+Agriculture,2014/4/1,1782.1,17
+Agriculture,2014/5/1,1199.7,18
+Agriculture,2014/6/1,1139.1,19
+Agriculture,2014/7/1,1144.4,20
+Agriculture,2014/8/1,951.5,21
+Agriculture,2014/9/1,834.7,22
+Agriculture,2014/10/1,1867.6,23
+Agriculture,2014/11/1,1858.9,24
+Agriculture,2014/12/1,1718.3,25
+Agriculture,2015/1/1,1277.3,26
+Agriculture,2015/2/1,1197,27
+Agriculture,2015/3/1,811.5,28
+Agriculture,2015/4/1,1363.2,29
+Agriculture,2015/5/1,1082.4,30
+Agriculture,2015/6/1,1035.6,31
+Agriculture,2015/7/1,1047.3,32
+Agriculture,2015/8/1,1155.3,33
+Agriculture,2015/9/1,1140.8,34
+Agriculture,2015/10/1,1204.5,35
+Agriculture,2015/11/1,1378.4,36
+Agriculture,2015/12/1,1074.8,37
+Agriculture,2016/1/1,1112.9,38
+Agriculture,2016/2/1,1037.8,39
+Agriculture,2016/3/1,966,40
+Agriculture,2016/4/1,1317.9,41
+Agriculture,2016/5/1,1184.2,42
+Agriculture,2016/6/1,677.7,43
+Agriculture,2016/7/1,677.5,44
+Agriculture,2016/8/1,530.9,45
+Agriculture,2016/9/1,487.5,46
+Agriculture,2016/10/1,660.5,47
+Agriculture,2016/11/1,996.9,48
+Agriculture,2016/12/1,1292.2,49
+Agriculture,2017/1/1,1116.9,50
+Agriculture,2017/2/1,964.5,51
+Agriculture,2017/3/1,1015.7,52
+Agriculture,2017/4/1,1347.7,53
+Agriculture,2017/5/1,746.7,54
+Agriculture,2017/6/1,485.2,55
+Agriculture,2017/7/1,491.7,56
+Agriculture,2017/8/1,617.4,57
+Agriculture,2017/9/1,955.7,58
+Agriculture,2017/10/1,1006.4,59
+Agriculture,2017/11/1,1133.9,60
+Agriculture,2017/12/1,2116.3,61
+Agriculture,2018/1/1,1266.1,62
+Agriculture,2018/2/1,1168.4,63
+chemical industry,2012/12/1,1547.4,1
+chemical industry,2013/1/1,1830.6,2
+chemical industry,2013/2/1,1694.2,3
+chemical industry,2013/3/1,1655.1,4
+chemical industry,2013/4/1,1850.8,5
+chemical industry,2013/5/1,1718.3,6
+chemical industry,2013/6/1,1734.5,7
+chemical industry,2013/7/1,1830.3,8
+chemical industry,2013/8/1,1538.9,9
+chemical industry,2013/9/1,1694.5,10
+chemical industry,2013/10/1,1692.7,11
+chemical industry,2013/11/1,1911.2,12
+chemical industry,2013/12/1,1928.8,13
+chemical industry,2014/1/1,1872.9,14
+chemical industry,2014/2/1,1640.6,15
+chemical industry,2014/3/1,1669.9,16
+chemical industry,2014/4/1,1834.4,17
+chemical industry,2014/5/1,1584,18
+chemical industry,2014/6/1,1416.8,19
+chemical industry,2014/7/1,1386.8,20
+chemical industry,2014/8/1,1303.5,21
+chemical industry,2014/9/1,1195.8,22
+chemical industry,2014/10/1,1330.3,23
+chemical industry,2014/11/1,1705.6,24
+chemical industry,2014/12/1,1456.8,25
+chemical industry,2015/1/1,1411.9,26
+chemical industry,2015/2/1,1327.3,27
+chemical industry,2015/3/1,1395.8,28
+chemical industry,2015/4/1,1235.2,29
+chemical industry,2015/5/1,1122.8,30
+chemical industry,2015/6/1,1118.7,31
+chemical industry,2015/7/1,1122,32
+chemical industry,2015/8/1,1198.2,33
+chemical industry,2015/9/1,1188.1,34
+chemical industry,2015/10/1,1045.7,35
+chemical industry,2015/11/1,1244.1,36
+chemical industry,2015/12/1,1358.4,37
+chemical industry,2016/1/1,1292.9,38
+chemical industry,2016/2/1,1247.8,39
+chemical industry,2016/3/1,1307.8,40
+chemical industry,2016/4/1,1371.2,41
+chemical industry,2016/5/1,1137.6,42
+chemical industry,2016/6/1,962.9,43
+chemical industry,2016/7/1,862.4,44
+chemical industry,2016/8/1,911.4,45
+chemical industry,2016/9/1,922.7,46
+chemical industry,2016/10/1,1062.1,47
+chemical industry,2016/11/1,1358,48
+chemical industry,2016/12/1,2040.9,49
+chemical industry,2017/1/1,2035.3,50
+chemical industry,2017/2/1,1458.3,51
+chemical industry,2017/3/1,1458.2,52
+chemical industry,2017/4/1,1496.3,53
+chemical industry,2017/5/1,852.9,54
+chemical industry,2017/6/1,504.9,55
+chemical industry,2017/7/1,590.9,56
+chemical industry,2017/8/1,1094,57
+chemical industry,2017/9/1,1093.8,58
+chemical industry,2017/10/1,1137.7,59
+chemical industry,2017/11/1,1433.9,60
+chemical industry,2017/12/1,2067.7,61
+chemical industry,2018/1/1,1344.5,62
+chemical industry,2018/2/1,1424.2,63
+coal,2012/12/1,2981.2,1
+coal,2013/1/1,2918.9,2
+coal,2013/2/1,2680,3
+coal,2013/3/1,3484.2,4
+coal,2013/4/1,4064.7,5
+coal,2013/5/1,3135.3,6
+coal,2013/6/1,2484.7,7
+coal,2013/7/1,2496.7,8
+coal,2013/8/1,2754.4,9
+coal,2013/9/1,2357.1,10
+coal,2013/10/1,2815.3,11
+coal,2013/11/1,3818,12
+coal,2013/12/1,3029.6,13
+coal,2014/1/1,2873.7,14
+coal,2014/2/1,2953.4,15
+coal,2014/3/1,3081,16
+coal,2014/4/1,3871.1,17
+coal,2014/5/1,2646.3,18
+coal,2014/6/1,2084.3,19
+coal,2014/7/1,1719.2,20
+coal,2014/8/1,1558.7,21
+coal,2014/9/1,2266,22
+coal,2014/10/1,3230.7,23
+coal,2014/11/1,3481.5,24
+coal,2014/12/1,2582.7,25
+coal,2015/1/1,1691.9,26
+coal,2015/2/1,1744.6,27
+coal,2015/3/1,1653.2,28
+coal,2015/4/1,2148.9,29
+coal,2015/5/1,1844.4,30
+coal,2015/6/1,2110.1,31
+coal,2015/7/1,1631.8,32
+coal,2015/8/1,1619.2,33
+coal,2015/9/1,1478.9,34
+coal,2015/10/1,1700.8,35
+coal,2015/11/1,1988.2,36
+coal,2015/12/1,2136.2,37
+coal,2016/1/1,1821.1,38
+coal,2016/2/1,1695,39
+coal,2016/3/1,1935.2,40
+coal,2016/4/1,2340.8,41
+coal,2016/5/1,1808.8,42
+coal,2016/6/1,1240.9,43
+coal,2016/7/1,906.9,44
+coal,2016/8/1,1111.5,45
+coal,2016/9/1,1408,46
+coal,2016/10/1,1423.7,47
+coal,2016/11/1,1596,48
+coal,2016/12/1,3139.7,49
+coal,2017/1/1,1126.2,50
+coal,2017/2/1,1142.5,51
+coal,2017/3/1,2112.2,52
+coal,2017/4/1,1711.2,53
+coal,2017/5/1,730.2,54
+coal,2017/6/1,454,55
+coal,2017/7/1,788.6,56
+coal,2017/8/1,1762,57
+coal,2017/9/1,876,58
+coal,2017/10/1,1371.1,59
+coal,2017/11/1,1920.3,60
+coal,2017/12/1,1773.3,61
+coal,2018/1/1,1633.4,62
+coal,2018/2/1,953.8,63
+Mineral,2012/12/1,1058,1
+Mineral,2013/1/1,1072.2,2
+Mineral,2013/2/1,986.8,3
+Mineral,2013/3/1,1085.5,4
+Mineral,2013/4/1,1395.5,5
+Mineral,2013/5/1,1374.5,6
+Mineral,2013/6/1,1409.1,7
+Mineral,2013/7/1,1304.7,8
+Mineral,2013/8/1,1316.4,9
+Mineral,2013/9/1,1265.9,10
+Mineral,2013/10/1,1126.9,11
+Mineral,2013/11/1,1261,12
+Mineral,2013/12/1,1154,13
+Mineral,2014/1/1,1163.7,14
+Mineral,2014/2/1,1178.8,15
+Mineral,2014/3/1,1056.3,16
+Mineral,2014/4/1,1388,17
+Mineral,2014/5/1,1166.7,18
+Mineral,2014/6/1,915.6,19
+Mineral,2014/7/1,757.8,20
+Mineral,2014/8/1,700.7,21
+Mineral,2014/9/1,710.5,22
+Mineral,2014/10/1,929.9,23
+Mineral,2014/11/1,1040.2,24
+Mineral,2014/12/1,785.4,25
+Mineral,2015/1/1,783.4,26
+Mineral,2015/2/1,893.7,27
+Mineral,2015/3/1,718,28
+Mineral,2015/4/1,770.6,29
+Mineral,2015/5/1,684.1,30
+Mineral,2015/6/1,730.4,31
+Mineral,2015/7/1,724.4,32
+Mineral,2015/8/1,676.6,33
+Mineral,2015/9/1,717.4,34
+Mineral,2015/10/1,684.2,35
+Mineral,2015/11/1,625.3,36
+Mineral,2015/12/1,587.9,37
+Mineral,2016/1/1,620.8,38
+Mineral,2016/2/1,670.7,39
+Mineral,2016/3/1,574.7,40
+Mineral,2016/4/1,725.3,41
+Mineral,2016/5/1,615.4,42
+Mineral,2016/6/1,324.4,43
+Mineral,2016/7/1,297.1,44
+Mineral,2016/8/1,268.9,45
+Mineral,2016/9/1,302.3,46
+Mineral,2016/10/1,259.4,47
+Mineral,2016/11/1,390.1,48
+Mineral,2016/12/1,619.8,49
+Mineral,2017/1/1,819.1,50
+Mineral,2017/2/1,773.4,51
+Mineral,2017/3/1,923.6,52
+Mineral,2017/4/1,1260.9,53
+Mineral,2017/5/1,1168.1,54
+Mineral,2017/6/1,927,55
+Mineral,2017/7/1,750.3,56
+Mineral,2017/8/1,750.3,57
+Mineral,2017/9/1,859.5,58
+Mineral,2017/10/1,846.9,59
+Mineral,2017/11/1,990.5,60
+Mineral,2017/12/1,1477.5,61
+Mineral,2018/1/1,1192.3,62
+Mineral,2018/2/1,1546.1,63
+steel,2012/12/1,1887.9,1
+steel,2013/1/1,1521.8,2
+steel,2013/2/1,1763.6,3
+steel,2013/3/1,1147,4
+steel,2013/4/1,1485.8,5
+steel,2013/5/1,1817.9,6
+steel,2013/6/1,1349,7
+steel,2013/7/1,1540.9,8
+steel,2013/8/1,1471.9,9
+steel,2013/9/1,1827,10
+steel,2013/10/1,1636.4,11
+steel,2013/11/1,2133.5,12
+steel,2013/12/1,1774.5,13
+steel,2014/1/1,2008.4,14
+steel,2014/2/1,1461.9,15
+steel,2014/3/1,1526.6,16
+steel,2014/4/1,2298.3,17
+steel,2014/5/1,1436.2,18
+steel,2014/6/1,1309.4,19
+steel,2014/7/1,1180.9,20
+steel,2014/8/1,1371.4,21
+steel,2014/9/1,1243,22
+steel,2014/10/1,1451.1,23
+steel,2014/11/1,1667.3,24
+steel,2014/12/1,1803,25
+steel,2015/1/1,1428.4,26
+steel,2015/2/1,1316.3,27
+steel,2015/3/1,1206.5,28
+steel,2015/4/1,1366.1,29
+steel,2015/5/1,1053.4,30
+steel,2015/6/1,1112.2,31
+steel,2015/7/1,1043.1,32
+steel,2015/8/1,1141.2,33
+steel,2015/9/1,1071.6,34
+steel,2015/10/1,1039.7,35
+steel,2015/11/1,1440,36
+steel,2015/12/1,1565,37
+steel,2016/1/1,1319.4,38
+steel,2016/2/1,1296.6,39
+steel,2016/3/1,1262.2,40
+steel,2016/4/1,1520.1,41
+steel,2016/5/1,1028.9,42
+steel,2016/6/1,669.2,43
+steel,2016/7/1,681.1,44
+steel,2016/8/1,702,45
+steel,2016/9/1,845.4,46
+steel,2016/10/1,724.7,47
+steel,2016/11/1,1239.8,48
+steel,2016/12/1,1826.7,49
+steel,2017/1/1,1576.7,50
+steel,2017/2/1,1517.3,51
+steel,2017/3/1,1352.9,52
+steel,2017/4/1,1721.3,53
+steel,2017/5/1,630,54
+steel,2017/6/1,287.6,55
+steel,2017/7/1,308.4,56
+steel,2017/8/1,591.7,57
+steel,2017/9/1,844.1,58
+steel,2017/10/1,741.3,59
+steel,2017/11/1,1031.6,60
+steel,2017/12/1,2569.2,61
+steel,2018/1/1,1876.3,62
+steel,2018/2/1,1283.3,63
